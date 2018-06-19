@@ -1,0 +1,8 @@
+*.m~
+*.mat
+*.backup
+*.sav
+*.bak
+.DS_Store
+.directory
+.thumbs.db
