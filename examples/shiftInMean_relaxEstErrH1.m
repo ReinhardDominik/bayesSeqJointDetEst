@@ -90,4 +90,4 @@ MCres = testObj.monteCarlo(Nmc,true,true);
 save(['./results/' simulationName '_MC.mat'],'MCres');
 fprintf('\n%s\n',['MC results saved in ./results/' simulationName '_MC.mat']);
 
-evaluateMC(MC);
+evaluateMC(MCres);

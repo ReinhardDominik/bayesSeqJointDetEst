@@ -6,8 +6,9 @@ This repository contains the code to reproduce the results of the paper "Bayesia
 @article{reinhard2018,
 author =    {Reinhard, Dominik and Fauss{}, Michael and Zoubir, Abdelhak M.},
   title     = {{Bayesian Sequential Joint Detection and Estimation}},
-  journal   = {{Sequential Analysis (submitted)}},
+  journal   = {{Sequential Analysis (under review)}},
   year      = {2018},
+  url		= {https://arxiv.org/abs/1807.03234},
 }
 ```
 
